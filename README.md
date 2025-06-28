@@ -5,7 +5,7 @@ This project simulates a basic SOC environment using Splunk and Windows logs to 
 ## 🔍 What I Built
 - Ingested Windows Event Logs and Sysmon into Splunk using a Universal Forwarder.
 - Built dashboards to monitor:
-  - PowerShell execution (e.g., `powershell_ise.exe`)
+  - PowerShell execution 
   - Windows logon failures (Event ID 4625)
   - Log ingestion trends over time
 
@@ -13,13 +13,13 @@ This project simulates a basic SOC environment using Splunk and Windows logs to 
 - Splunk Free Edition
 - Universal Forwarder
 - Sysmon
-- Windows 10 (as the victim endpoint)
+- Windows 11 (as the victim endpoint)
 - Kali Linux (Hydra brute force login simulation)
 
 ## 📸 Dashboards
-- **Suspicious PowerShell Activity**
-- **Log Ingestion Breakdown**
-- **Sysmon Event ID Volume Over Time**
+- Suspicious PowerShell Activity
+- Log Ingestion Breakdown
+- Sysmon Event ID Volume Over Time
 
 ## 💡 What I Learned
 - How to simulate log events with attack tools (Hydra)
