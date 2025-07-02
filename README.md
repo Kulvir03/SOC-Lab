@@ -26,7 +26,7 @@ This project simulates a basic SOC environment using Splunk and Windows logs to 
 - Use of `spath`, `stats`, and `table` in SPL
 - Creating dashboards and alerts in Splunk
 
-- #📸 Screenshots
+#📸 Screenshots
 
 # Dashboard Overview
 ![dashboard-overview](https://github.com/user-attachments/assets/14b4aa08-8d89-4f37-9067-2e006e357938)
